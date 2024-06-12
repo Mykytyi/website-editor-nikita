@@ -1,1 +1,1 @@
-export * from "./editor-static-example";
+export * from './pages/editor-static-example';
